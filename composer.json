@@ -1,5 +1,5 @@
 {
-  "name": "basilicom/xml-tool-bundle",
+  "name": "fortimic/xml-tool-bundle",
   "license": "GPL-3.0-or-later",
   "type": "pimcore-bundle",
   "description": "This Bundle provides xml (export) tools for Pimcore.",
